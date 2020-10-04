@@ -1,0 +1,4 @@
+#Sun Oct 04 15:43:43 EDT 2020
+base.0=/media/aman/data/repos/dynamo/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

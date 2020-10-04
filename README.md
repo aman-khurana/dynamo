@@ -36,7 +36,7 @@ we open one server socket that listens on port 10000. The redirection ports are 
 
 ### running the grader
 
-This project was a part of requirement for CSE 586 at University at Buffalo, therefore a grading script is also available which can be used to test the different features of the code. The script checks for the following 6 phases(it takes about 20 minutes to check everything, as the checks are extensive)
+This project was a part of requirement for CSE 586 at the University at Buffalo, therefore a grading script is also available which can be used to test the different features of the code. The script checks for the following 6 phases(it takes about 20 minutes to check everything, as the checks are extensive)
 
 - Testing basic ops
 - Testing concurrent ops with different keys
